@@ -1,4 +1,4 @@
-# Stock-Item-and-NavSys-Proj
+# Stock-Item and NavSys Project
 
 ## Project Description
 This project was the first one we had in the first year of our degree.
