@@ -56,5 +56,6 @@ There are a good number of test cases provided. Each function was tested and met
 Use one consistent naming convention. Here I use both camelCase and snake_case which is not necessary and makes writing the code take a little longer.
 
 Better UML:
+
 -   Fix present errors in the UML.
 -   Make the diagrams smaller so they fit in one page.
